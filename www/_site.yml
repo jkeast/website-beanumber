@@ -10,6 +10,7 @@ navbar:
       icon: fa-user-check
       href: about.html
     - text: "Stories"
+      story_shehrbanoi.html 
       icon: fa-newspaper
       menu:
         - text: "Lauren Low's Story"

@@ -16,6 +16,8 @@ navbar:
           href: story1.html
         - text: "Story 2"
           href: story2.html
+        - text: "story_yanwanz"
+          href: story_yanwanz.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

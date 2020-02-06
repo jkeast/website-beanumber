@@ -1,0 +1,14 @@
+---
+title: "story"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Diary entry 1
+
+About two and a half weeks ago, I took a BuzzFeed-esque quiz made by the Washington Post.  The quiz (linked on the word quiz, but it's hard to spot the color difference) tells readers which democratic presidential candidate their values align with most based on policy related questions.  The first time I took the quiz, I think I was most compatible with Warren and least with Yang.  This morning before writing this entry I decided to take the quiz again just to see if anything had changed.  Oddly enough, Warren came behind Buttigieg and Yang followed Warren.  I'm not sure if I was reading questions differently this morning than I did two weeks ago, or if perhaps my outlook has changed in light of recent events.  Whichever the case, I found the quiz helpful in narrowing my top few contenders. 
+
+I didn't appreciate, however, that the fill in the blank answers were pretty limited in their scope.  For each policy related question, there were only two to four answers that constituents could choose from.  It's great that the Post kept the quiz accessible to the public and didn't over complicate policy issues in this sense.  But at the same time, some issues are complicated.  I had trouble picking an answer for questions surrounding healthcare because I think for government provided healthcare to be feasible, the quality must be at least as good as private healthcare.  While I'm sure a number of other candidates believe this as well, this thought was not reflected in the quiz.  

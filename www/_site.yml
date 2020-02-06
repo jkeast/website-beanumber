@@ -13,9 +13,12 @@ navbar:
       icon: fa-newspaper
       menu:
         - text: "Story 1"
-          href: story_danica_ann.html
+          href: story1.html
         - text: "Story 2"
           href: story2.html
+        - text: "Story 3"
+          href: story_danica_ann.html
+          
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

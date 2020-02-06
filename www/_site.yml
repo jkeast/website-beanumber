@@ -12,12 +12,16 @@ navbar:
     - text: "Stories"
       icon: fa-newspaper
       menu:
-        - text: "Story 1"
-          href: story1.html
+        - text: "Lauren Low's Story"
+          href: story_laurenslow.html
         - text: "Story 2"
           href: story2.html
         - text: "15 Iowa Caucusgoers' Thoughts"
         - href: story_ireneryan.html
+        - text: "story_yanwanz"
+          href: story_yanwanz.html
+        - text: "Story: Yejin"
+          href: story_yejhwang.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

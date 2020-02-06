@@ -13,7 +13,7 @@ navbar:
       icon: fa-newspaper
       menu:
         - text: "Story 1"
-          href: story1.html
+          href: story_danica_ann.html
         - text: "Story 2"
           href: story2.html
   right:

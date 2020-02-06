@@ -21,7 +21,7 @@ navbar:
         - text: "Story 3"
           href: story_danica_ann.html
         - text: "15 Iowa Caucusgoers' Thoughts"
-        - href: story_ireneryan.html
+          href: story_ireneryan.html
         - text: "story_yanwanz"
           href: story_yanwanz.html
         - text: "Story: Yejin"

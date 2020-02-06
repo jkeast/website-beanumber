@@ -43,7 +43,7 @@ a.sourceLine { text-indent: -1em; padding-left: 1em; }
 pre.numberSource a.sourceLine
   { position: relative; left: -4em; }
 pre.numberSource a.sourceLine::before
-  { content: attr(title);
+  { content: attr(data-line-number);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
     border: none; pointer-events: all; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
@@ -376,6 +376,9 @@ $(document).ready(function () {
     <li>
       <a href="story2.html">Story 2</a>
     </li>
+    <li>
+      <a href="story_yejhwang.html">Story: Yejin</a>
+    </li>
   </ul>
 </li>
       </ul>
@@ -422,7 +425,7 @@ $(document).ready(function () {
 <p>And images:</p>
 <p><img src="https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif" /></p>
 <p>And don’t forget about R code:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1">knitr<span class="op">::</span><span class="kw">kable</span>(mtcars)</a></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1">knitr<span class="op">::</span><span class="kw">kable</span>(mtcars)</a></code></pre></div>
 <table>
 <thead>
 <tr class="header">

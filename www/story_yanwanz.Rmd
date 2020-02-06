@@ -1,0 +1,12 @@
+---
+title: "story_yanwanz"
+author: "Yanwan Zhu"
+date: "2/6/2020"
+output: html_document
+---
+
+I find an article called "Colorism in High Fashion" from The Pudding, a very interesting website focus on telling stories with data visualization, and want to share it as an example of how data can provide insight into media's depiction of people or issues.
+
+The authors used an algorithm to identify the faces of female models on Vogue cover pages and record information about the skin tones of these models. They made a visualization of the skin tones of 262 female cover models that were featured in 228 issues of Vogue in the past nineteen years. I like that in addition to the visualization, the authors pointed out issues such as tokenism (using the same model repeatedly to achieve "diversity") and confounders such as lighting/photoshopping/etc.
+
+I hope this is a good example of how data is used to tell a story! And there are lots of interesting articles like this on The Pudding regarding popular culture or social issues. I believe that data visualization is more than making graphs, but the insight it can give on issues that we really care about.

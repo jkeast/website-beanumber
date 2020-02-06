@@ -1,0 +1,8 @@
+---
+title: "Story: Yejin"
+author: "Yejin Hwang"
+date: "2/6/2020"
+output: html_document
+---
+
+"Yay for data Journalism," said Yejin. 

@@ -12,8 +12,8 @@ navbar:
     - text: "Stories"
       icon: fa-newspaper
       menu:
-        - text: "Story 1"
-          href: story1.html
+        - text: "Lauren Low's Story"
+          href: story_laurenslow.html
         - text: "Story 2"
           href: story2.html
   right:

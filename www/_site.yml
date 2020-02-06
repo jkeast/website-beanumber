@@ -18,6 +18,8 @@ navbar:
           href: story2.html
         - text: "story_yanwanz"
           href: story_yanwanz.html
+        - text: "Story: Yejin"
+          href: story_yejhwang.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

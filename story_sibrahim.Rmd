@@ -1,8 +1,0 @@
----
-title: "My Story"
-author: "Shehrbano Ibrahim"
-date: "February 6, 2020"
-output: html_document
----
-
-DATA DIARY 

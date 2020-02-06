@@ -10,9 +10,10 @@ navbar:
       icon: fa-user-check
       href: about.html
     - text: "Stories"
-      story_shehrbanoi.html 
       icon: fa-newspaper
       menu:
+        - text: "Story 1"
+          href: story1.html
         - text: "Lauren Low's Story"
           href: story_laurenslow.html
         - text: "Story 2"
@@ -25,6 +26,10 @@ navbar:
           href: story_yanwanz.html
         - text: "Story: Yejin"
           href: story_yejhwang.html
+        - text: "Story: Shehrbano"
+          href: story_shehrbanoi.html
+        - text: "Story: Yifan"
+          href: story_Yifan.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

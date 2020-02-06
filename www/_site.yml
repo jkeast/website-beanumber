@@ -10,12 +10,14 @@ navbar:
       icon: fa-user-check
       href: about.html
     - text: "Stories"
+      story_shehrbanoi.html 
       icon: fa-newspaper
       menu:
         - text: "Story 1"
           href: story1.html
         - text: "Story 2"
           href: story2.html
+          
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu

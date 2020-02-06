@@ -15,7 +15,7 @@ a template for creating a website in R Markdown
     1.  Settings -\> GitHub Pages -\> Source -\> select “master branch
         `/docs` folder”
 2.  View your website at given URL
-    1.  In case: (<https://sds236-s20.github.io/rmarkdown-website/>)
+    1.  In case: (<https://sds236-s20.github.io/website-beanumber/>)
 
 ## Maintainence
 
